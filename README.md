@@ -34,10 +34,55 @@ Passionate about Artificial Intelligence, Computer Science Education, and Buildi
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iKaelx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iKaelx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iKaelx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/iKaelx">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=iKaelx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=iKaelx&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=iKaelx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  </picture>
+</a>
+
+<a href="https://github.com/iKaelx">
+  <picture>
+    <source
+      srcset="https://nirzak-streak-stats.vercel.app/?user=iKaelx&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://nirzak-streak-stats.vercel.app/?user=iKaelx&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="170" src="https://nirzak-streak-stats.vercel.app/?user=iKaelx&theme=tokyonight&hide_border=true" />
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://github.com/iKaelx">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iKaelx&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=iKaelx&layout=compact&theme=default&hide_border=true&include_all_commits=true&count_private=true"
+      media="(prefers-color-scheme: light)"
+    />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iKaelx&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  </picture>
+</a>
+
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iKaelx&theme=radical&no-frame=false&no-bg=true&margin-w=4)
